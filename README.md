@@ -22,4 +22,4 @@ i'l add it later but its obvious from the sketch.ino
 - i recommend that u do this section (how to make this project yourself) online since ur arduino will be connected to the internet,
 or if you want to work locally your computer should be visible in LAN (local area network) and u should change the serverName in sketch.ino to the IP of your computer.
 
--don't forget to change serverName and wifi credencials in sketch.ino or no new data will be added and of cours the wiring of the detectors to arduino
+- don't forget to change serverName and wifi credencials in sketch.ino or no new data will be added and of cours the wiring of the detectors to arduino
